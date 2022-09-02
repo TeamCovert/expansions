@@ -1,5 +1,5 @@
-div#div_contact_custom_fields_block dt:nth-child(29), //Financing Option
-div#div_contact_custom_fields_block dt:nth-child(31), //Portal Amount
+div#div_contact_custom_fields_block dt:nth-child(29), /*Financing Option*/
+div#div_contact_custom_fields_block dt:nth-child(31), /*Portal Amount*/
 
 
 { color: red; }
