@@ -1,5 +1,4 @@
-div#div_contact_custom_fields_block dt:nth-child(29), 
-div#div_contact_custom_fields_block dt:nth-child(31) 
+div#div_contact_custom_fields_block dt:nth-child(29), div#div_contact_custom_fields_block dt:nth-child(31), div#div_contact_custom_fields_block dt:nth-child(33), div#div_contact_custom_fields_block dt:nth-child(37), div#div_contact_custom_fields_block dt:nth-child(39), div#div_contact_custom_fields_block dt:nth-child(41), div#div_contact_custom_fields_block dt:nth-child(43), div#div_contact_custom_fields_block dt:nth-child(57), div#div_contact_custom_fields_block dt:nth-child(71)
 
 
 { color: red; }
